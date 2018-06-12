@@ -4,31 +4,39 @@ import { observable } from "mobx";
 import { observer } from "mobx-react";
 import DevTools from "mobx-react-devtools";
 
+import Translator from "./translator";
+
+import "./styles.css";
+// require("style!css-loader!styles.css");
+
 @observer
 export default class RandomSelector extends React.Component<
   {},
   {
     backend: RandomBackend;
     randomNum: Number;
+    translator: Translator;
   }
 > {
+  public backend = new RandomBackend();
+  public translator = new Translator();
   constructor() {
     super();
-    this.state = {
-      backend: new RandomBackend(),
-      randomNum: -1
-    };
   }
 
   render() {
-    let temp = this.state;
-    console.log(temp);
+    console.log(this.props);
     return (
       <div>
-        <button onClick={() => this.state.backend.pickRandomOfTen()}>
-          The random number is : {this.state.backend.randomNum}
-        </button>
-        <DevTools />
+        <div>
+          <button onClick={() => this.translator.generateRandomFoodItem()}>
+            GENERATE!!
+          </button>
+        </div>
+        <div className="test_category">
+          {this.translator.appState.currentFoodItem}
+          {this.translator.appState.currentFoodCategory}
+        </div>
       </div>
     );
   }
@@ -37,7 +45,7 @@ export default class RandomSelector extends React.Component<
 class RandomBackend {
   @observable randomNum: Number = -1;
 
-  pickRandomOfTen(): Number {
+  public pickRandomOfTen(): Number {
     this.randomNum = Math.floor(Math.random() * 10);
     return this.randomNum;
   }
