@@ -1,12 +1,5 @@
-import * as ExtractTextPlugin from "extract-text-webpack-plugin";
-
 var path = require("path");
 var webpack = require("webpack");
-
-const extractSass = new ExtractTextPlugin({
-  disable: process.env.NODE_ENV === "development",
-  filename: "app.[hash].css"
-});
 
 module.exports = {
   devtool: "eval",
@@ -22,22 +15,17 @@ module.exports = {
   module: {
     loaders: [
       {
-        test: /.ts$/,
-        exclude: /node_modules/,
-        loader: "babel?presets[]=es2015"
-      },
-      {
         test: /\.css$/,
-        use: extractSass.extract({
-          use: [
-            { loader: "css-loader", options: {} },
-            {
-              loader: "postcss-loader",
-              options: {}
-            }
-          ],
-          fallback: "style-loader"
-        })
+        use: [
+          {
+            loader: "style-loader",
+            options: {}
+          },
+          {
+            loader: "css-loader",
+            options: {}
+          }
+        ]
       },
       {
         test: /\.tsx?$/,
