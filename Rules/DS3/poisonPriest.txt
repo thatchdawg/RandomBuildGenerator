@@ -1,0 +1,38 @@
+1h + Shield + Ranged
+Herald Start Class
+Weapons (Poison):
+	Straight Sword:
+		001EAFDC Poison Longsword (10 str/ 10 dex)
+	Small Shield:
+		01332D1C Poison Ghru Rotshield (5 str)
+	Talismans:
+		00CA54E0 Sunlight Talisman (4 str/ 14 fth)
+		Spells:
+			403540D0 Heal Aid (8 fth/ 1 slot)
+			40362B30 Lightning Spear (20 fth/ 1 slot) 
+			40363300 Sunlight Spear (40 fth/ 1 slot)
+			4038C340 Divine Pillars of Light (30 fth/ 1 slot)
+
+Armor:
+	Harald Set:
+		Head - Any
+		13D83508 Armor
+		13D838F0 Gloves
+		13D83CD8 Legs
+	Ring:
+		20004EE8 Leo Ring	
+
+10s
+10d
+14 fth
+1 att slot
+lvl to 30 str
+lvl to 20 vig
+lvl to 40 fth
+lvl to 27 vig	
+
+RUN NOT FINISHED DUE TO CHANGING PC AND LOSING SAVE.
+REMAINING BOSSES:
+	NAMELESS KING
+	ALL RINGED CITY
+	SOUL OF CINDER

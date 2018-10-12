@@ -1,0 +1,15 @@
+Records:
+	IGT: 47:37:09
+	Royal Swordsman Armor
+	Fire Drakekeeper Greatshield
+	Fire Drangleic Sword
+	Normal Alonne Greatbow
+
+	IGT: 85:08:38
+	White Priestess Set
+	Monastary Scimitar (Dual Wield)
+	Transgressor's Staff
+		Heavy Homing Soul Arrow
+		Chameleon 
+		Dark Fog
+		Repair 

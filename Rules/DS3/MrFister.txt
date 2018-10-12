@@ -1,0 +1,26 @@
+15:11:25
+Dual Wield + Ranged
+
+Deprived Start Class
+
+Weapons (Blessed (+1400 to item id))
+	Fist
+		00A7FFD0 Caestus (00A805AC Blessed) 
+	Greatbow
+		00D85EA0 Millwood Greatbow
+
+Armor:
+	Executioner Set
+		119BFCC0 Head
+		119C00A8 Armor
+		119C0490 Gloves
+		119C0878 Legs
+	20004FF6 Hunter's Ring
+
+
+
+
+Blessed Caestus Dual Wield
+Millwood Greatbow
+Executioner Set
+Hunter's Ring

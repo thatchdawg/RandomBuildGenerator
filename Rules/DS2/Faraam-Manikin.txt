@@ -1,0 +1,33 @@
+1H + Shield + Ranged
+
+Weapons (Dark Infusable):
+	03A428D0 - Darknight Stone x 3
+	Curved Sword:
+		00190640 Dark Manikin Sabre
+	Small Shield:
+		00AAAB68 Watcher's Shield
+	Greatbow:
+		004371A0 Dragonslayer Greatbow
+
+Warrior Start Class
+Armor:
+	Faraam Set
+		014551A4 Head
+		014551A5 Armor
+		014551A6 Gloves
+		014551A7 Legs
+
+Stat Leveling:
+	8 VIT
+	19 DEX
+	8 STR
+	20 DEX
+	30 STR
+	22 VIT
+	24 ADPT (to 99 agility)
+	20 VIG
+	30 FTH (Dark BNS)
+	30 INT (Dark BNS)
+	40 DEX
+	??
+	

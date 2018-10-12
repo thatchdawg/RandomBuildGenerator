@@ -1,0 +1,20 @@
+COMPLETED :)
+NOTE: All Numbers are in Hexadecimal
+
+2h + Ranged
+
+Deprived Start Class
+
+Weapons: 
+	Primary (Thrusting Sword):
+		002E1864 Deep Rapier (384 + 002E14E0)
+	Ranged (Backup Melee - Spear):
+		008B2D4C Poison Rotten Ghru Spear (44C + 008B2900)
+
+Armor:
+	Black Leather Set
+		14A62F80 Head (Thief Mask)
+		14A63368 Armor
+		14A63750 Gloves
+		14A63B38 Legs
+	2000510E Pontiff's Right Eye

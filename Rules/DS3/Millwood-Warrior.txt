@@ -1,0 +1,27 @@
+28:36:52
+1h + Shield + Ranged
+
+Weapons (Simple (+400 to item id))
+	Axe:
+		006D67D0 Millwood Battle Axe
+	Standard Shield:
+		01409650 Lothric Knight Shield
+	Greatbow:
+		00D85EA0 Millwood Greatbow
+
+Armor:
+	Gundyr's Set
+		13D09000 Head
+		13D093E8 Armor
+		13D097D0 Gloves
+		13D09BB8 Legs
+	20004E2A Chloranthy Ring
+Warrior Start Class
+
+15 Str axe
+10 Dex axe
+18 str shield
+25 vit roll
+12 dex bow
+28 str bow
+53 vit normal roll

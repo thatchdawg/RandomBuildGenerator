@@ -1,0 +1,34 @@
+Power Stance/Dual Wield + Ranged
+Deprived Start Class
+	Curved Swords:
+		0019C990 Monastery Scimitar x2 (Normal)
+	Stave:
+		005488A0 Transgressor's Staff (Normal)
+		01D9F020 Heavy Homing Soul Arrow - Required	
+		Other 3 Spells Allowed:
+			01DD4B80 Chameleon 1 Slot (14 Int)
+			020741B0 Dark Fog - 2 Slots (25 Int 14 Fth)
+			01DCFD60 Repair - 1 Slot (15 Int)
+	Armor:
+		White Priestess Set
+			01509C44 Head
+			01509C45 Armor
+			01509C46 Gloves
+			01509C47 Legs
+		
+Stats Required:
+35 Intelligence
+9/14 Str
+22/33 Dex
+10 Att
+12 Fth
+
+Stat Leveling
+	20 Vig
+	20 End
+	20 Att
+	?? Adpt (to 99 agility)
+	40 Dex
+	14 Fth
+	Minimum Stat (Mundane Scaling)
+

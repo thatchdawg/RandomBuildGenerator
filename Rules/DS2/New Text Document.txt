@@ -1,0 +1,44 @@
+COMPLETED :)
+NOTE: All Numbers are in Hexadecimal
+
+Power Stance + Ranged
+
+Deprived Start Class
+
+Weapons (No infusions): 
+	Right Hand (Dagger):
+		0010C8E0 Parrying Dagger
+	Left Hand (Dagger):
+		0010C8E0 Parrying Dagger
+	Ranged (Staves):
+		003BF790 Azal's Staff
+		Spells:
+			01DD4B80 Chameleon - 1 slot
+			02078FD0 Dead Again - 2 slots
+			01DC1300 Crystal Magic Weapon - 1 slot
+			01D953E0 Great Soul Arrow - 1 slot
+	
+
+Armor:
+	Creighton's Set
+		01A265C4 Creighton's Steel Mask
+		01A265C5 Creighton's Chainmail
+		01A265C6 Creighton's Chain Gloves
+		01A265C7 Creighton's Chain Leggings
+	02634460 Spell Quartz Ring
+		+1 in Earthen Peak
+		+2 in King's Passage
+		+3 in Brume Tower
+	
+Level Order:
+	14 dex
+	35 Int
+	20 Fth
+	10 Att
+	10 Vig
+	?? Adp (to 105 Agl)
+	40 Dex
+	40 Int
+	20 End
+	40 Fth
+	++ Vig
